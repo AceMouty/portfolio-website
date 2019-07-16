@@ -3072,6 +3072,7 @@ input, select, textarea {
 
 			.spotlight .image.main img {
 				position: relative;
+				transform: translateY(-50%);
 			}
 
 		.spotlight .content {
@@ -3502,6 +3503,7 @@ input, select, textarea {
 
 				#banner .content header h2 {
 					font-size: 2.5em;
+					text-align: left;
 					margin: 0;
 				}
 
