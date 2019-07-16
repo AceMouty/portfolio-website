@@ -3072,7 +3072,6 @@ input, select, textarea {
 
 			.spotlight .image.main img {
 				position: relative;
-				transform: translateY(-50%);
 			}
 
 		.spotlight .content {
