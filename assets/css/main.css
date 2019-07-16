@@ -3057,7 +3057,6 @@ input, select, textarea {
 		}
 
 		.spotlight:before {
-			background-image: url("images/overlay.png");
 			content: '';
 			display: block;
 			height: 100%;
@@ -3071,7 +3070,7 @@ input, select, textarea {
 		}
 
 			.spotlight .image.main img {
-				position: relative;
+				position: absolute;
 			}
 
 		.spotlight .content {
